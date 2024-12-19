@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <div id="pagina">
+        <h1>PEDIR SOLICITUD</h1>
+        <div class="formContainer">
+            <form action="AñadirMatricula.php" method="post">
+                <h3>Tipo del vehículo del solicitante</h3>
+                <div class="containerFormulario">
+                    <div id="containerRadio">
+                        <input type="radio" id = "vehiculosEMT" name="vehiculo" value = "vehiculosEMT">Vehiculo EMT
+                        <input type="radio" id = "taxis" name="vehiculo" value = "taxis">Taxi
+                        <input type="radio" id = "servicios" name="vehiculo" value = "servicios">Servicio
+                        <input type="radio" id = "logistica" name="vehiculo" value = "logistica">Logistica
+                        <input type="radio" id = "residentesYHoteles" name="vehiculo" value = "residentesYHoteles">Residente
+                    </div>
+                </div>
+                <div class="containerFormulario">
+                    <input type="submit" name="enviado" value="Validar tipo" style = "width: 49%; height: 3em;">
+                    <input type="reset" value="Borrar" style = "width: 49%; height: 3em;">
+                </div>
+            </form>
+        </div>
+        <div class="formContainer">
+            <form action="movilidad.php" method="post">
+                <input type="submit" name="enviado" id="submitInfractor" value="Ver Infractores">
+            </form>
+        </div>
+    </div>
+</body>
+</html>
