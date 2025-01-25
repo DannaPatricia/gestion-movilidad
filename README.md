@@ -1,3 +1,5 @@
+![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
+
 # 🚗 Proyecto: Gestión de Matrículas e Infractores
 
 ¡Bienvenido/a! Este repositorio contiene un sistema para gestionar **solicitudes de matrícula** y **verificar infracciones** de vehículos utilizando **PHP**, **HTML** y **CSS**. El sistema permite al usuario seleccionar el tipo de vehículo y verificar si hay infracciones basadas en una serie de condiciones.
