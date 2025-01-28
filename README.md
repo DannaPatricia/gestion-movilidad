@@ -41,8 +41,18 @@
 
 ## 🎨 Capturas de Pantalla
 
-(Pendiente)
-
+ 1. **Inicio**:
+<div align = "center">
+   <img width = "850px" src = "./img/index.png" alt = "inicio">
+</div>
+ 2. **Listado de infractores**:
+<div align = "center">
+   <img width = "850px" src = "./img/infractores.png" alt = "listadoInfractores">
+</div>
+ 3. **Formulario y repintado**:
+<div align = "center">
+   <img width = "850px" src = "./img/repintado.png" alt = "formulario">
+</div>
 ---
 
 ## 🤝 Contribuciones
