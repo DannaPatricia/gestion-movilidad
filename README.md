@@ -43,15 +43,15 @@
 
  1. **Inicio**:
 <div align = "center">
-   <img width = "300px" src = "./img/index.png" alt = "inicio">
+   <img width = "550px" src = "./img/index.png" alt = "inicio">
 </div>
  2. **Listado de infractores**:
 <div align = "center">
-   <img width = "300px" src = "./img/infractores.png" alt = "listadoInfractores">
+   <img width = "550px" src = "./img/infractores.png" alt = "listadoInfractores">
 </div>
  3. **Formulario y repintado**:
 <div align = "center">
-   <img width = "300px" src = "./img/repintado.png" alt = "formulario">
+   <img width = "550px" src = "./img/repintado.png" alt = "formulario">
 </div>
 ---
 
